@@ -24,4 +24,5 @@ contract OurTokenTest is Test {
     }
 
     // 并没有写完...
+    // 这节课挺水的，大概意思一下就行
 }
